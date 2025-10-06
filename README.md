@@ -7,8 +7,6 @@ https://unrivaled-starlight-74831d.netlify.app/
 
 A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects — designed to help you stand out and showcase your skills creatively.
 
-![3d Portfolio Screenshot GitHub](https://github.com/user-attachments/assets/9b0ed20e-074e-4f2a-81d8-20c9da751e9e)
-
 ---
 
 ## 📚 Table of Contents
@@ -119,5 +117,6 @@ Let me know!
 
 ## ⭐ Like This Project?
 Star the repo and [subscribe](https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA??sub_confirmation=1) to the YouTube channel for more dev content!
+
 
 
