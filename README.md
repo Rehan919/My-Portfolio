@@ -69,8 +69,8 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 ## 🚀 Getting Started
 1. Clone the Repository
 ```bash
-git clone https://github.com/Ali-Sanati/Portfolio.git
-cd Portfolio
+git clone https://github.com/Rehan919/My-Portfolio
+cd My-Portfolio
 ```
 2. Install Dependencies
 ```bash
@@ -114,3 +114,4 @@ Let me know!
 
 ## ⭐ Like This Project?
 Star the repo and [subscribe](https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA??sub_confirmation=1) to the YouTube channel for more dev content!
+
